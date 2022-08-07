@@ -1,6 +1,6 @@
-# This entrypoint file to be used in development. Start by reading README.md
+# coded by Ramon Medeiro. Please use this content only to knowledge. Try to do this project yourself.
+# FREECODECAMP project 3.
 import medical_data_visualizer
 
-# Test your function by calling it here
 medical_data_visualizer.draw_cat_plot()
 medical_data_visualizer.draw_heat_map()

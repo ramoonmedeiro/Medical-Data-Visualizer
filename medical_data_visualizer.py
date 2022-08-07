@@ -1,3 +1,6 @@
+# coded by Ramon Medeiro. Please use this content only to knowledge. Try to do this project yourself.
+# FREECODECAMP project 4.
+
 import pandas as pd
 import seaborn as sns
 import matplotlib.pyplot as plt
